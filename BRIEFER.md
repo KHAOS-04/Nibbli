@@ -1,10 +1,5 @@
 # 📘 Nibbli — Project Briefer
-### Your Complete Guide to Understanding, Explaining, and Defending the Project
-
-> This document is written for you — the developer — so you can fully understand what you built,
-> explain it clearly to your professor, and answer any question with confidence.
-> Read this before your oral defense. 🎓
-
+### Your Complete Guide to Understanding the Project
 ---
 
 ## Table of Contents
