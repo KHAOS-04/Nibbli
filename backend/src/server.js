@@ -10,12 +10,12 @@ const server = http.createServer(app);
 
 const io = new Server(server, {
   cors: {
-<<<<<<< HEAD
-    origin: ['http://localhost:5173', 'http://127.0.0.1:5173'],
-=======
-    origin: ['http://localhost:5173', 'http://127.0.0.1:5173', 'https://your-nibbli.vercel.app'],
->>>>>>> 07fccebc4c00933ef965ff69aeb4cfefa70eb3b9
-    methods: ['GET', 'POST'],
+    origin: [
+      "http://localhost:5173",
+      "http://127.0.0.1:5173",
+      "https://your-vercel-app.vercel.app"
+    ],
+    methods: ["GET", "POST"],
   },
 });
 
