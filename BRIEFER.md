@@ -27,7 +27,7 @@
 
 ## What is Nibbli?
 
-Nibbli is a **real-time collaborative productivity web application** designed for small teams. Think of it like a lightweight combination of Trello (task boards), Discord (chat + rooms), and Notion (workspace organization) — but in a cozy pastel aesthetic built by you.
+Nibbli is a **real-time collaborative productivity web application** designed for small teams. Think of it like a lightweight combination of Trello (task boards), Discord (chat + rooms), and Notion (workspace organization) — but in a cozy pastel aesthetic.
 
 In plain words: **multiple people can open Nibbli in their browsers at the same time, work on the same task board, chat with each other, and everything updates instantly for everyone — no page refresh needed.**
 
