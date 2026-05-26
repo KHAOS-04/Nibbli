@@ -8,7 +8,7 @@
 
 ## 📖 Project Overview
 
-Nibbli is a lightweight, visually polished, real-time collaborative productivity web app for small teams. Team members can join workspace rooms, manage a shared Kanban board, and see each other's actions instantly — all without any accounts, databases, or cloud services.
+Nibbli is a real-time collaborative productivity web app for small teams. Team members can join workspace rooms, manage a shared Kanban board, and see each other's actions instantly — all without any accounts, databases, or cloud services.
 
 ---
 
