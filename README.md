@@ -309,8 +309,8 @@ Built with a lot of late nights and pastel colors for our Parallel and Distribut
 | Name | Role |
 |---|---|
 | **Kia I. Soguilon** | Full-Stack Development, UI/UX Design, Real-Time Systems |
-| **Kaye C. Emperado** | Full-Stack Development, Frontend Architecture, Chat System |
-| **Anthony Joseph G. Dionio** | Full-Stack Development, Backend Architecture, Socket.IO Integration |
+| **Kaye C. Emperado** | Full-Stack Development, Repository Manager |
+| **Anthony Joseph G. Dionio** | Systems Administrator, Socket.IO Integration |
 
 *BS Computer Science 3-B2 · ICT 119 — Parallel and Distributed Computing*
 *Information Systems and Technology Unit — Second Semester*
@@ -319,6 +319,6 @@ Built with a lot of late nights and pastel colors for our Parallel and Distribut
 
 <div align="center">
 
-Made with 💜 · Nibbli © 2025
+Nibbli © 2026
 
 </div>
